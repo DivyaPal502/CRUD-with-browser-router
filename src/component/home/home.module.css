@@ -1,0 +1,11 @@
+#homeContainer{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#homeContainer>h1{
+    font-family: sans-serif;
+    font-size: 80px;
+}
